@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theswisstree.com/sitemap.xml
